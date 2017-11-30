@@ -12,6 +12,6 @@
 * Download -> Extract -> Run index.php
 * No database Setup required
 
-##Tech Used
+## Tech Used
 * PHP, Bootstrap, Jquery
 * Json for database
