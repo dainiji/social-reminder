@@ -1,6 +1,6 @@
 # Social Reminder
 
-## Schedule your bookings for clients and send instant reminder via WhatsApp or facebook Messenger
+## Schedule bookings for your clients and send instant reminder via WhatsApp or facebook Messenger
 
 * Add a list of Friends name and phone number
 * Add a list of Friends name and messenger id
