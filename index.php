@@ -24,8 +24,8 @@
 			<div class="col-md-5">
 				<p>
 					Enter list of names and phone numbers e.g <br/>
-					Joe; 917563564867 <br/> 
-					Mike; 322345647895
+					Daini; 7874529278 <br/> 
+					Dev; 7990991901
 				</p>
 				<p>First two digits of phone number must be country code</p>
 			</div>
@@ -36,7 +36,7 @@
 				<p>
 					Enter list of names and Messenger id e.g <br/>
 					Daini; dainiDev <br/> 
-					Mike; mikeCoder
+					Arun; ArunGourav
 				</p>
 			</div>
 			
